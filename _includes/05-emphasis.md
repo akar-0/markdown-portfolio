@@ -1,1 +1,5 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+* Few skills.
+  * Little C programming.
+* *Italics*
+* **Bold**
+* What else?
